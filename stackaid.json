@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "dependencies": [
+    { "source": "https://github.com/nodejs/node" },
+    { "source": "https://github.com/postgres/postgres" },
+    { "source": "https://github.com/go-task/task" },
+    { "source": "https://github.com/direnv/direnv" }
+  ]
+}

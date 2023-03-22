@@ -1,0 +1,29 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcstackaid/sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcstackaid/sample/issues"
+  },
+  "homepage": "https://github.com/dcstackaid/sample#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "babel-preset-solid": "^1.6.13",
+    "solid-js": "^1.6.15",
+    "zod": "^3.21.4"
+  }
+}
